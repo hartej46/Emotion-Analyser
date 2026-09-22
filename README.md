@@ -1,4 +1,4 @@
-# Sentiment Classifier Model
+# Emotion Classification Model
 
 This project implements a deep learning model for classifying text emotions using the Go Emotions dataset. The model uses convolutional neural networks with attention mechanisms for multi-label emotion detection.
 
